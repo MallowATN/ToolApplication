@@ -1,2 +1,2 @@
 # ToolApplication
-This is an app that allows user to create a highway pay
+This is an app that allows user to create a highway pass
